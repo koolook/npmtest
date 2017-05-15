@@ -1,0 +1,23 @@
+{
+  "name": "@eugene.lukin/npmtest",
+  "version": "0.1.0",
+  "description": "npm playground",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koolook/npmtest.git"
+  },
+  "keywords": [
+    "playground",
+    "npm"
+  ],
+  "author": "eugene.lukin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koolook/npmtest/issues"
+  },
+  "homepage": "https://github.com/koolook/npmtest#readme"
+}
